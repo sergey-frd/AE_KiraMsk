@@ -1,0 +1,40 @@
+====================
+KiraMsk_22_2b Date: Tue Apr 26 2022 20:13:10 GMT+0300
+ getRandomInt: 2
+ getRandomInt: 7
+ Math.round(Math.random()): 0
+ Math.round(Math.random()): 0
+ genXml: <Stuff>
+  <logLocation>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_KiraMsk\\log\\</logLocation>
+  <logName>KiraMsk_b1</logName>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_KiraMsk\\xml\\aeKiraMsk2022b_1.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_KiraMsk\\xml\\aeKiraMsk2022b_1.xml
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/53270701_2306236966073857_558567978677829632_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/14242502_1265527080144856_5343702085345436897_o-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/13243709_1263382073692690_8632121713012590757_o-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/28379391_1804389969591895_563003873428208376_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/15157031_1331126426918254_3581828067034252778_o-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/50844649_2246697535361134_9061088080554885120_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/14883678_1305284846169079_7870534834334591545_o-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/14715582_1295507547146809_5703118364778257623_o-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/13600367_1211105605587004_7084604018390560092_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/11059685_1070259086338324_5804095685762022536_o-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/12291975_1070258546338378_377818097502608687_o-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/12378056_1083355565028676_1813237680224216998_o-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/smal/s/48427736_2201931179837770_8937826019558031360_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/118282661_3460763810621161_1456875425689089036_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/119110149_3524159860948222_3535753761374866716_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/100085514_3200862376611307_1504746722776055808_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/87265471_2970734972957383_9001455504781737984_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/94786260_3127479157282963_4432394541391151104_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/198030905_4311622395535294_7952354437024268328_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/198623577_4311622408868626_8785178920208871217_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/198693069_4311622628868604_6231159739598246954_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/198769747_4311622505535283_2861267762430372267_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/100089307_3200862489944629_5321313022017273856_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/101015658_3200862266611318_2402621511589429248_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/118410623_3460760327288176_7267478715375412365_n-s.jpeg</pathurl>
+</Stuff>
+filePathUrl.length= 25

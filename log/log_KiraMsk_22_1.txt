@@ -1,0 +1,105 @@
+====================
+KiraMsk_22_1 Date: Tue Apr 26 2022 14:22:31 GMT+0300
+ getRandomInt: 0
+ getRandomInt: 1
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 1
+ genXml: <Stuff>
+  <logLocation>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_KiraMsk\\log\\</logLocation>
+  <logName>KiraMsk_1</logName>
+  <pathRrXml>e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_KiraMsk\\xml\\aeKiraMsk2022a_1.xml</pathRrXml>
+</Stuff>
+ pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_KiraMsk\\xml\\aeKiraMsk2022a_1.xml
+readXmlae_maya22_3_1 pathRrXml: e:\\Git\\P_h_o_t_o\\AE_JSX\\AE_KiraMsk\\xml\\aeKiraMsk2022a_1.xml
+readXmlae_maya22_3_1 xmlString: <?xml version="1.0" encoding="utf-8"?>
+<Stuff>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/Kira_photo_220324_2.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/13139353_1171662096198022_5209192929834336036_n-s.jpeg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/267893_229052140459027_1901560_n-s.jpeg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/58629_150952964935612_883460_n-s.jpeg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/IMG-20161128-WA0001-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/P1010032a-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/Rita%20russia%202007%20036-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be-2.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/IMG-20220209-WA0013-s.jpeg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/IMG-20161128-WA0003-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/IMG-20180116-WA0007-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/Rita%20russia%202007%20032-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0001.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0008.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/IMG-20210428-WA0006-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/istg_191202_2100%20(2)-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/istg_191202_2059-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/040103%20023-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/istg_191202_2101-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/198794044_4311622518868615_8907477128297722536_n-s.jpeg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0005.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/240666163_4559520620745469_3405224109658387260_n-s.jpeg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0003.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/IMG-20220209-WA0015-s.jpeg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0004.jpg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/IMG-20220209-WA0018-s.jpeg</pathurl>
+     <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/IMG-20220209-WA0020-s.jpeg</pathurl>
+</Stuff>
+
+
+ myXml: <Stuff>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/Kira_photo_220324_2.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/13139353_1171662096198022_5209192929834336036_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/267893_229052140459027_1901560_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/58629_150952964935612_883460_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/IMG-20161128-WA0001-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/P1010032a-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/Rita%20russia%202007%20036-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be-2.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/IMG-20220209-WA0013-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/IMG-20161128-WA0003-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/IMG-20180116-WA0007-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/Rita%20russia%202007%20032-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0001.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0008.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/IMG-20210428-WA0006-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/istg_191202_2100%20(2)-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/istg_191202_2059-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/040103%20023-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2019_spr/istg_191202_2101-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/198794044_4311622518868615_8907477128297722536_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0005.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/240666163_4559520620745469_3405224109658387260_n-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0003.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/IMG-20220209-WA0015-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2021/base/IMG-20210428-WA0004.jpg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/IMG-20220209-WA0018-s.jpeg</pathurl>
+  <pathurl>file://localhost/E%3a/Git/P_h_o_t_o/Dv_Kira_Mscw/2022/s/IMG-20220209-WA0020-s.jpeg</pathurl>
+</Stuff>
+filePathUrl.length= 26
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+!! Not found findItem 
+ i= 1  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\Kira_photo_220324_2.jpg
+ i= 2  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\13139353_1171662096198022_5209192929834336036_n-s.jpeg
+ i= 3  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\267893_229052140459027_1901560_n-s.jpeg
+ i= 4  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\58629_150952964935612_883460_n-s.jpeg
+ i= 5  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\IMG-20161128-WA0001-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 6  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\P1010032a-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 7  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\Rita%20russia%202007%20036-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be-2.jpg
+ i= 8  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\IMG-20220209-WA0013-s.jpeg
+ i= 9  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\IMG-20161128-WA0003-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 10  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\IMG-20180116-WA0007-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 11  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\Rita%20russia%202007%20032-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 12  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2021\\base\\IMG-20210428-WA0001.jpg
+ i= 13  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2021\\base\\IMG-20210428-WA0008.jpg
+ i= 14  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2021\\IMG-20210428-WA0006-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 15  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\istg_191202_2100%20(2)-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 16  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\istg_191202_2059-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 17  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\040103%20023-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 18  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2019_spr\\istg_191202_2101-%d0%a3%d0%bb%d1%83%d1%87%d1%88%d0%b5%d0%bd%d0%be.jpg
+ i= 19  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\198794044_4311622518868615_8907477128297722536_n-s.jpeg
+ i= 20  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2021\\base\\IMG-20210428-WA0005.jpg
+ i= 21  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\240666163_4559520620745469_3405224109658387260_n-s.jpeg
+ i= 22  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2021\\base\\IMG-20210428-WA0003.jpg
+ i= 23  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\IMG-20220209-WA0015-s.jpeg
+ i= 24  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2021\\base\\IMG-20210428-WA0004.jpg
+ i= 25  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\IMG-20220209-WA0018-s.jpeg
+ i= 26  filePathUrl=> E:\\Git\\P_h_o_t_o\\Dv_Kira_Mscw\\2022\\s\\IMG-20220209-WA0020-s.jpeg
+====================

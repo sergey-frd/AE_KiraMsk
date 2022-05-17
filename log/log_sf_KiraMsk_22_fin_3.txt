@@ -1,0 +1,13 @@
+====================
+sf_KiraMsk_22_fin_3 Date: Thu Apr 28 2022 17:04:54 GMT+0300
+ getRandomInt: 7
+ getRandomInt: 2
+ Math.round(Math.random()): 1
+ Math.round(Math.random()): 0
+compFinalName= aeFinalKiraMskAllAB_1
+compWidth= 3840
+compHeight= 2160
+durationSec= 5
+filePathUrl.length= 0
+filePathUrl.length*durationSec= 0
+====================
